@@ -50,9 +50,6 @@
 </p>
 
 
-## 🎮 Play Snake Game:
-<p align="center">
-  <a href="https://your-github-username.github.io/snake_game"><img src="https://img.shields.io/badge/Play%20Snake%20Game-%23FF0000.svg?style=for-the-badge&logo=games&logoColor=white"></a>
-</p>
+
 
 
