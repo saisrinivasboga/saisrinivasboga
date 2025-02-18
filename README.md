@@ -49,6 +49,8 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical">
 </p>
 
+![snake gif](https://github.com/saisrinivasboga/saisrinivasboga/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
