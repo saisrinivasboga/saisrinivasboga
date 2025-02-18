@@ -1,5 +1,3 @@
-![snake gif](https://github.com/saisrinivasboga/saisrinivasboga/blob/output/github-contribution-grid-snake.gif)
-
 <h1 align="center">Hi 👋, I'm Boga Sai Srinivas</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saisrinivasboga&label=Profile%20views&color=0e75b6&style=flat" alt="saisrinivasboga" /> </p>
@@ -52,6 +50,10 @@
 </p>
 
 
+### 🐍 Contribution Snake
+
+![GitHub Snake Light](https://raw.githubusercontent.com/saisrinivasboga/output/main/dist/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/saisrinivasboga/output/main/dist/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 
 
