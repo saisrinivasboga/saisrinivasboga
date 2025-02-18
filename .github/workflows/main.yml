@@ -9,13 +9,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    # ✅ Grant GitHub Actions write access to push changes
     permissions:
       contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Ensures all history is fetched
 
       - name: Generate contribution snake
         uses: Platane/snk@master
@@ -28,9 +29,9 @@ jobs:
       - name: Show git status
         run: git status
 
-      # ✅ Replace old push action with a better one
+      # ✅ Use the correct branch
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update contribution graph"
-          branch: master
+          branch: main  # Change to 'main' if needed
