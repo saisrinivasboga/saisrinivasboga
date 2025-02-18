@@ -52,8 +52,9 @@
 
 ### 🐍 Contribution Snake
 
-![GitHub Snake Light](https://raw.githubusercontent.com/saisrinivasboga/output/main/dist/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/saisrinivasboga/output/main/dist/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![GitHub Snake](https://raw.githubusercontent.com/saisrinivasboga/saisrinivasboga/main/dist/github-contribution-grid-snake.svg)
+
+![GitHub Snake](https://raw.githubusercontent.com/saisrinivasboga/saisrinivasboga/main/dist/github-contribution-grid-snake.gif)
 
 
 
