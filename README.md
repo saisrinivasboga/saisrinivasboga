@@ -50,12 +50,6 @@
 </p>
 
 
-### 🐍 Contribution Snake
-
-![GitHub Snake](https://raw.githubusercontent.com/saisrinivasboga/saisrinivasboga/main/dist/github-contribution-grid-snake.svg)
-
-![GitHub Snake](https://raw.githubusercontent.com/saisrinivasboga/saisrinivasboga/main/dist/github-contribution-grid-snake.gif)
-
 
 
 
